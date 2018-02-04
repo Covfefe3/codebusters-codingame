@@ -1,0 +1,1 @@
+My python code from legend league in codebusters project(AI and resources management). All documentation is written in comments inside the busters.py file. For more informations about this project go to https://www.codingame.com/multiplayer/bot-programming/codebusters.
